@@ -1,1 +1,5 @@
-
+Abre el archivo conceptos-git.txt y escribe una explicación corta de los siguientes conceptos:
+Repositorio-----> es un espacio de almacenamiento digital en la nube, utilizado para guardar los archivos de un proyecto 
+(código, imágenes, documentación) y su historial de cambios.
+Commit---------->es una "instantánea" (snapshot) o registro seguro de los cambios realizados en el código de tu repositorio en un momento específico.
+Push------------>es el proceso de subir los cambios (commits) realizados en tu repositorio local (en tu computadora) a un repositorio remoto.
